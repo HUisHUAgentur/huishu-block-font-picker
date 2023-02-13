@@ -1,0 +1,17 @@
+{
+    "name": "huishu-block-font-picker",
+    "version": "1.0.0",
+    "description": "",
+    "main": "build/index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "build": "wp-scripts build",
+        "start": "wp-scripts start"
+    },
+    "author": "HUisHU. Digitale Kreativagentur GmbH",
+    "license": "ISC",
+    "devDependencies": {
+        "@wordpress/scripts": "19.2.2",
+        "classnames": "2.3.1"
+    }
+}
